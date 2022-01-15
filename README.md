@@ -1,4 +1,4 @@
-![Screenshot](./screen.png)
+<img src="./screen.png" width=300/>
 
 # percussive__Glitch
 
